@@ -122,5 +122,27 @@ namespace Squeezy_Data_Compressor
             Decompress(fileToDecompress);
             label4.Text = "File decompressed at " + fileForDecompression;
         }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string About_message = "v1.0\nSqueezy Data Compressor";
+            string caption = "About Squeezy Data Compressor";
+            MessageBox.Show(this, About_message, caption);
+        }
+
+        private void howToUseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string message = "To Compress a .txt file\n" +
+                "1. Select the file which contains the file.\n" +
+                "2. Make sure the directory has only the .txt file you want to compress.\n" +
+                "4. Once selected press the compress button.\n" +
+                "5. The compressed file will be saved in the same directory as the origional file.\n\n\n" +
+                "To Decompress a .txt file\n" +
+                "1. Select the .cmp file which you want to decompress.\n" +
+                "2. Once selected press the Decompress button.\n" +
+                "3. The origional decompressed file will be stored in the same directory as the compressed file.\n\n";
+            string caption = "How to use - Squeezy";
+            MessageBox.Show(this, message, caption);
+        }
     }
 }
