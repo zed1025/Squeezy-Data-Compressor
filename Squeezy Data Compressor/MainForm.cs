@@ -29,6 +29,9 @@ namespace Squeezy_Data_Compressor
         {   
             //opens a dialogue box and lets you select a file
             OpenFileDialog openFileDialog = new OpenFileDialog();
+
+            //the following line prevents the OpenFileDialogue from choosing files other than .txt files for compression
+            openFileDialog.Filter = "txt files (*.txt) | *.txt";
             if(openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 string directory;
@@ -102,6 +105,7 @@ namespace Squeezy_Data_Compressor
         private void btn_SelectFile_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "cmp files (*.cmp) | *.cmp";
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 string temp;
