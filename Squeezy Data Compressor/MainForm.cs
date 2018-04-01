@@ -144,5 +144,11 @@ namespace Squeezy_Data_Compressor
             string caption = "How to use - Squeezy";
             MessageBox.Show(this, message, caption);
         }
+
+        private void quickCompressJPEGToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            JPEG_Compress jPEG_Compress = new JPEG_Compress();
+            jPEG_Compress.Show();
+        }
     }
 }

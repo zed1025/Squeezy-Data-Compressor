@@ -8,3 +8,15 @@ C:\Users\Amit Kumar\Documents\Programming\DotNet Projects\Squeezy Data Compresso
 C:\Users\Amit Kumar\Documents\Programming\DotNet Projects\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy Data Compressor.csproj.CoreCompileInputs.cache
 C:\Users\Amit Kumar\Documents\Programming\DotNet Projects\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy Data Compressor.exe
 C:\Users\Amit Kumar\Documents\Programming\DotNet Projects\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy Data Compressor.pdb
+C:\Users\Amit Kumar\Documents\Programming\DotNet Projects\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy_Data_Compressor.JPEG_Compress.resources
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\bin\Debug\Squeezy Data Compressor.exe.config
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\bin\Debug\Squeezy Data Compressor.exe
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\bin\Debug\Squeezy Data Compressor.pdb
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy Data Compressor.csprojResolveAssemblyReference.cache
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy_Data_Compressor.JPEG_Compress.resources
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy_Data_Compressor.MainForm.resources
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy_Data_Compressor.Properties.Resources.resources
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy Data Compressor.csproj.GenerateResource.cache
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy Data Compressor.csproj.CoreCompileInputs.cache
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy Data Compressor.exe
+C:\Users\Amit Kumar\Documents\Programming\C#_DotNet\Squeezy Data Compressor\Squeezy Data Compressor\obj\Debug\Squeezy Data Compressor.pdb

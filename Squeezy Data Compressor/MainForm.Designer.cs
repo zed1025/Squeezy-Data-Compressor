@@ -39,10 +39,11 @@
             this.label5 = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.textCompressionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.textCompressionToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.howToUseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.textCompressionToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.quickCompressJPEGToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -149,10 +150,17 @@
             // textCompressionToolStripMenuItem
             // 
             this.textCompressionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.textCompressionToolStripMenuItem1});
+            this.textCompressionToolStripMenuItem1,
+            this.quickCompressJPEGToolStripMenuItem});
             this.textCompressionToolStripMenuItem.Name = "textCompressionToolStripMenuItem";
             this.textCompressionToolStripMenuItem.Size = new System.Drawing.Size(132, 38);
             this.textCompressionToolStripMenuItem.Text = "Compress";
+            // 
+            // textCompressionToolStripMenuItem1
+            // 
+            this.textCompressionToolStripMenuItem1.Name = "textCompressionToolStripMenuItem1";
+            this.textCompressionToolStripMenuItem1.Size = new System.Drawing.Size(344, 38);
+            this.textCompressionToolStripMenuItem1.Text = "Text Compression";
             // 
             // helpToolStripMenuItem
             // 
@@ -166,22 +174,23 @@
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(324, 38);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(235, 38);
             this.aboutToolStripMenuItem.Text = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
             // howToUseToolStripMenuItem
             // 
             this.howToUseToolStripMenuItem.Name = "howToUseToolStripMenuItem";
-            this.howToUseToolStripMenuItem.Size = new System.Drawing.Size(324, 38);
+            this.howToUseToolStripMenuItem.Size = new System.Drawing.Size(235, 38);
             this.howToUseToolStripMenuItem.Text = "How to use";
             this.howToUseToolStripMenuItem.Click += new System.EventHandler(this.howToUseToolStripMenuItem_Click);
             // 
-            // textCompressionToolStripMenuItem1
+            // quickCompressJPEGToolStripMenuItem
             // 
-            this.textCompressionToolStripMenuItem1.Name = "textCompressionToolStripMenuItem1";
-            this.textCompressionToolStripMenuItem1.Size = new System.Drawing.Size(324, 38);
-            this.textCompressionToolStripMenuItem1.Text = "Text Compression";
+            this.quickCompressJPEGToolStripMenuItem.Name = "quickCompressJPEGToolStripMenuItem";
+            this.quickCompressJPEGToolStripMenuItem.Size = new System.Drawing.Size(344, 38);
+            this.quickCompressJPEGToolStripMenuItem.Text = "Quick Compress JPEG";
+            this.quickCompressJPEGToolStripMenuItem.Click += new System.EventHandler(this.quickCompressJPEGToolStripMenuItem_Click);
             // 
             // MainForm
             // 
@@ -228,6 +237,7 @@
         private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem howToUseToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem textCompressionToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem quickCompressJPEGToolStripMenuItem;
     }
 }
 
